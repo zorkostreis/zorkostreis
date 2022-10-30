@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Eva</h1>
-<h3 align="center">Ruby on Rails developer</h3>
 
 <h3 align="left">Languages and tools:</h3>
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
